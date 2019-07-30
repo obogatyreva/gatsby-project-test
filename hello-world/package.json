@@ -19,6 +19,7 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
+    "netlify-cli": "^2.11.31",
     "prettier": "^1.18.2"
   },
   "repository": {
